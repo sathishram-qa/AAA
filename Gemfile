@@ -1,4 +1,8 @@
 source "https://rubygems.org"
+source 'http://gems.github.com'
+
+gem 'jruby-openssl', "0.7.2"
+
 gem 'cucumber'
 gem 'rspec'
 gem 'capybara'
@@ -13,6 +17,9 @@ gem 'celerity'
 gem 'autotest'
 gem 'nokogiri'
 gem 'shoulda'
+
+
+
 
 
 
