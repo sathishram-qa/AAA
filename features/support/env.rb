@@ -6,9 +6,11 @@ require 'java'
 require 'sikuli'
 require 'watir-webdriver'
 
+
 java_import "org.sikuli.script.SikuliScript"
 java_import "org.sikuli.script.Region"
 java_import "org.sikuli.script.Screen"
+import  'java.lang.System'
 
 Before do |scenario|
    page.driver.browser.manage.window.maximize
