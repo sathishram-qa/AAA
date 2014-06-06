@@ -8,7 +8,11 @@ gem "watir-webdriver", ">0"
 gem 'fivemat'
 gem 'rake'
 gem 'viewcumber'
-
+gem 'headless'
+gem 'celerity'
+gem 'autotest'
+gem 'nokogiri'
+gem 'shoulda'
 
 
 

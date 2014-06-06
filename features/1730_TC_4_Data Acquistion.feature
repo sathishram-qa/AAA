@@ -19,8 +19,3 @@ Examples: Project List
 |project                    		   |                     
 |Lemoore District Office.png           |
 |Lemoore Engvall Elementary School.png |
-|Lemoore Liberty Middle School.png     |
-|Lemoore Meadow Elementary School.png  |
-|MJUSD Boron District Office.png       |
-|MJUSD Boron High School.png           |
-|MJUSD West Boron Elementary.png       |

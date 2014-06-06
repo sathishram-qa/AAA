@@ -12,6 +12,8 @@ java_import "org.sikuli.script.Region"
 java_import "org.sikuli.script.Screen"
 import  'java.lang.System'
 
+ENV["DYLD_LIBRARY_PATH"] ||= "./features/support/lib/OpenCV"
+
 Before do |scenario|
    page.driver.browser.manage.window.maximize
 end
