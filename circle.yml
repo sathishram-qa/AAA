@@ -16,7 +16,7 @@ dependencies:
     - gem install selenium-webdriver
     - apt-get install tesseract-ocr-eng
     - apt-get install libswing-layout-java
-- bundle
+    - bundle	
     #- apt-get selenium-java-2.37.0
   override:
     #- bundle install: # note ':' here
