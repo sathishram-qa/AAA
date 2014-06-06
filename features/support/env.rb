@@ -6,6 +6,7 @@ require 'java'
 require 'sikuli'
 require 'watir-webdriver'
 
+require  './features/support/lib/Sikuli-script.jar'
 
 java_import "org.sikuli.script.SikuliScript"
 java_import "org.sikuli.script.Region"
